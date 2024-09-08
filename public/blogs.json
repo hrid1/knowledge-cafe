@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+      "title": "Exploring the Future of Artificial Intelligence",
+      "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
+      "author": "John Doe",
+      "posted_date": "2024-09-01",
+      "hashtags": ["#AI", "#MachineLearning", "#FutureTech"],
+      "reading_time": 8
+    },
+    {
+      "id": 2,
+      "cover": "https://images.unsplash.com/photo-1556742031-c6961e8560b9",
+      "title": "Web Development Trends in 2024",
+      "author_img": "https://randomuser.me/api/portraits/women/45.jpg",
+      "author": "Jane Smith",
+      "posted_date": "2024-08-28",
+      "hashtags": ["#WebDevelopment", "#React", "#Frontend"],
+      "reading_time": 5
+    },
+    {
+      "id": 3,
+      "cover": "https://images.unsplash.com/photo-1564866657310-8f900e38d9bb",
+      "title": "Building Scalable Apps with Microservices",
+      "author_img": "https://randomuser.me/api/portraits/men/57.jpg",
+      "author": "Samuel Jackson",
+      "posted_date": "2024-08-15",
+      "hashtags": ["#Microservices", "#CloudComputing", "#Backend"],
+      "reading_time": 12
+    },
+    {
+      "id": 4,
+      "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "title": "How to Create Stunning UI with Tailwind CSS",
+      "author_img": "https://randomuser.me/api/portraits/women/30.jpg",
+      "author": "Emily Rose",
+      "posted_date": "2024-07-30",
+      "hashtags": ["#TailwindCSS", "#UI", "#Design"],
+      "reading_time": 7
+    },
+    {
+      "id": 5,
+      "cover": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+      "title": "Mastering JavaScript ES6 Features",
+      "author_img": "https://randomuser.me/api/portraits/men/60.jpg",
+      "author": "Michael Lee",
+      "posted_date": "2024-07-15",
+      "hashtags": ["#JavaScript", "#ES6", "#Programming"],
+      "reading_time": 6
+    }
+  ]
+  
